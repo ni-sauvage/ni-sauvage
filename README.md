@@ -1,6 +1,6 @@
 ### Behold, my stuff 🖥️
 
-Hi, I'm Niall Sauvage, a 4th year Integrated Computer Science student at TCD. I'm currently based in Dublin, but I hail from Tramore in the sunny south east. My favourite bit of Computer Science is the really low level stuff, but I love the high-level stuff too.
+Hi, I'm Niall Sauvage, a 4th year Integrated Computer Science student at TCD. I'm currently based in Dublin, but I hail from Tramore in the Sunny South East. My favourite bit of Computer Science is the really low level stuff, but I do love the high-level stuff too.
 I will talk your ear off about:
 
 - Maths 📐
