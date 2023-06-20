@@ -19,7 +19,7 @@ I will talk your ear off about:
 
 - [A Haskell implementation of a basic calculator](https://github.com/alexandersep/CSU33012-SWENG-ASS1). So good that you can have a heart attack at the keyboard and it'll **still** give you an answer. Also Haskell is great.
 
-- I've collaboratively written and parellelised (using both OpenMP and SSE) a matrix convolution algorithm and bucketsort using SSE. 
+- I've collaboratively written and parellelised (using both OpenMP and SSE) a matrix convolution algorithm and bucketsort using SSE. [I also have a repository where I did some past exam papers on these types of questions!](https://github.com/ni-sauvage/CS33014/tree/master)
 
 - [And what I'm currently working on, a Diplomacy move adjudicator](https://github.com/ni-sauvage/diplomac). If I have time, the plan is to turn it into a web application with Flask and React, but for now we're working on the validator itself.
 
